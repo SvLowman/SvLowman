@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=random&height=200&section=header&text=😋&animation=fadeIn&fontAlign=80&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=rect&color=random&height=200&section=header&text=😋&animation=fadeIn&fontAlign=80&fontAlignY=35)
 
 <!--
 - 📫 How to reach me: Eeeer...

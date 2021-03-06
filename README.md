@@ -4,7 +4,8 @@
 - 📫 How to reach me: Eeeer...
 -->
 - 🔭 I'm currently working on my [Portfolio](https://github.com/SvLowman/portfolio-website)
-- 🌱 I’m currently looking for a job (find me on [LinkedIn](https://www.linkedin.com/in/sven-lohmann-90a268205/))
+
+<!-- - 🌱 I’m currently looking for a job (find me on [LinkedIn](https://www.linkedin.com/in/sven-lohmann-90a268205/)) -->
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=SvLowman&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 <!--
